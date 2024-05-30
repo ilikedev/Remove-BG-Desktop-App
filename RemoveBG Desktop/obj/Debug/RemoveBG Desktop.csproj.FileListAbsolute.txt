@@ -1,0 +1,21 @@
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\bin\Debug\RemoveBG Desktop.exe.config
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\bin\Debug\RemoveBG Desktop.exe
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\bin\Debug\RemoveBG Desktop.pdb
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\bin\Debug\en\RemoveBG Desktop.resources.dll
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\bin\Debug\SaaUI.dll
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\bin\Debug\SaaUI.xml
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG Desktop.csproj.AssemblyReference.cache
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG_Desktop.MainForm.resources
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG_Desktop.Properties.Resources.resources
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG_Desktop.MainForm.en.resources
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG Desktop.csproj.GenerateResource.cache
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG Desktop.csproj.CoreCompileInputs.cache
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\en\RemoveBG Desktop.resources.dll
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG Desktop.csproj.CopyComplete
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG Desktop.exe
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG Desktop.pdb
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\bin\Debug\MaterialSkin.dll
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG_Desktop.UCPythonNotFound.resources
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG Desktop.csproj.ResolveComReference.cache
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG_Desktop.UCAppMain.resources
+D:\Données\Dev\C#\RemoveBG Desktop\RemoveBG Desktop\obj\Debug\RemoveBG_Desktop.UCAppMain.en.resources
