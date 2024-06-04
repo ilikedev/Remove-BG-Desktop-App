@@ -1,5 +1,4 @@
 # Remove-BG-Desktop-App
-⚠Only in French for this moment⚠
 SOURCE CODE IS IN "beta2" BRANCH
 ## Description
 An application that is used to remove the background of images simply by operating via the Remove.bg API.
